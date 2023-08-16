@@ -10,8 +10,8 @@
 
 ### Day 2 - Python Programming fo Data Analytics:
 
-* Python Data Manipulation
-* Data Analysis with JSONs
+* [Python Data Manipulation](https://github.com/flatiron-school/DS-TransRe-082123/blob/main/Day%202/Python-Data-Manipulation.ipynb)
+* [Data Analysis with JSONs](https://github.com/flatiron-school/DS-TransRe-082123/tree/main/Day%202/Data-Analysis-with-JSONs)
 
 ### Day 3 - Statistics:
 
