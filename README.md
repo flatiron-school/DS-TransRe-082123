@@ -15,16 +15,16 @@
 
 ### Day 3 - Statistics:
 
-* Descriptive Statistics
-* Distributions & Sampling
+* [Descriptive Statistics](https://github.com/flatiron-school/DS-TransRe-082123/tree/main/Day%203/Descriptive-Statistics)
+* [Distributions & Sampling](https://github.com/flatiron-school/DS-TransRe-082123/tree/main/Day%203/Distributions-and-Sampling)
 
 ### Day 4 - Data Analysis with Pandas and Numpy:
 
-* Intro to NumPy
-* Advanced NumPy Applications
+* [Intro to NumPy](https://github.com/flatiron-school/DS-TransRe-082123/blob/main/Day%204/Intro-to-NumPy.ipynb)
+* [Advanced NumPy Applications](https://github.com/flatiron-school/DS-TransRe-082123/tree/main/Day%204/Advanced-Numpy-Applications)
 
 ### Day 5 - Data Manipulation with Pandas:
 
-* Aggregating & Combining DataFrames
-* Pandas Data Cleaning
+* [Aggregating & Combining DataFrames](https://github.com/flatiron-school/DS-TransRe-082123/tree/main/Day%205/Aggregating-and-Combining-DataFrames)
+* [Pandas Data Cleaning](https://github.com/flatiron-school/DS-TransRe-082123/tree/main/Day%205/Pandas-Data-Cleaning)
 
