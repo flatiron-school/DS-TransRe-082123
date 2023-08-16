@@ -21,7 +21,7 @@
 ### Day 4 - Data Analysis with Pandas and Numpy:
 
 * Intro to NumPy
-* Advanced Numpy Applications
+* Advanced NumPy Applications
 
 ### Day 5 - Data Manipulation with Pandas:
 
