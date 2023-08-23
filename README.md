@@ -29,3 +29,7 @@
 * [Pandas Data Cleaning](https://github.com/flatiron-school/DS-TransRe-082123/tree/main/Day%205/Pandas-Data-Cleaning)
 
 ## [Supplemental](https://github.com/flatiron-school/DS-TransRe-082123/tree/main/Supplements)
+
+Be sure to check out the supplemental material (using the link above ☝🏼)!
+
+### And don't forget about the [course resources page](https://nickmccarty.me/transre) 😃
