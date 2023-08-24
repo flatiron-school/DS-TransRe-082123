@@ -33,3 +33,11 @@
 Be sure to check out the supplemental material (using the link above ☝🏼)!
 
 ### And don't forget about the [course resources page](https://nickmccarty.me/transre) 😃
+
+![](https://raw.githubusercontent.com/flatiron-school/DS-TransRe-082123/main/Supplements/resource-page-screenshot.png)
+
+### Finally, in case you need help getting the tools installed, I also put this page together:
+
+[nickmccarty.me/installation-help](https://nickmccarty.me/installation-help)
+
+![](https://raw.githubusercontent.com/flatiron-school/DS-TransRe-082123/main/Supplements/installation-help-screenshot.png)
